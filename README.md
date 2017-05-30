@@ -14,8 +14,8 @@
  
 ## Быстрый старт
 Начиная с 1 июня 2017 вступает в силу новая модель распространения Stalker Middleware.
-Заполните форму запроса чтобы загрузить последнюю версию Stalker Middleware.
-Прочтите страницу «Руководство по инсталляции Stalker Middleware» для получения информации о настройке платформы.
+[Заполните форму](http://www.infomir.eu/rus/solutions/free-middleware-stalker/) запроса чтобы загрузить последнюю версию Stalker Middleware.
+Прочтите страницу [«Руководство по инсталляции Stalker Middleware»](https://wiki.infomir.eu/rus/stalker/rukovodstvo-po-installyatsii-stalker) для получения информации о настройке платформы.
  
 ## Что включено
 Бесплатный базовый функционал
@@ -39,7 +39,7 @@
 - Мониторинг источников для ТВ-каналов
  
 ## Платные опции
-- [Установка и конфигурация системы «под ключ»](https://play.google.com/store/apps/details?id=com.infomir.stalkermobile)
+- [Установка и конфигурация системы «под ключ»](http://www.infomir.eu/rus/solutions/magic-solution/)
 - Техническая поддержка с гарантированным SLA
 - Приложения для мобильных устройств [Android](https://play.google.com/store/apps/details?id=com.infomir.stalkermobile) и [iOS](https://itunes.apple.com/ua/app/stalkertv/id1020135702?mt=8)
 - Услуга брендирования приложений для смартфонов и планшетов
@@ -47,7 +47,7 @@
 - Современные высокопроизводительные приставки [MAG](http://www.infomir.eu/rus/products/iptv-stb/)
 
 ## Ошибки и запросы функций
-Получи бесплатную консультацию в [Service Desk](http://www.infomir.eu/eng/support/form/support.php)
+Получи бесплатную консультацию в [Service Desk](http://www.infomir.eu/eng/support/form/support.php)  
 Присоединяйтесь к Официальной [HipChat room](https://www.hipchat.com/gpYTYRHgx)
 
 ## Документация
@@ -58,8 +58,8 @@
 Прочтите и подпишитесь на [Официальный блог Stalker Middleware](http://blog.middleware-stalker.com)
 
 ## Контакты
-Руководитель проекта [Alexander Sazhyienko](stalker@infomir.com)  
-Бренд-менеджер [Irina Tischenko](stalker@infomir.com)
+Руководитель проекта [Alexander Sazhyienko](mailto:stalker@infomir.com)  
+Бренд-менеджер [Irina Tischenko](mailto:stalker@infomir.com)
 
 ## Авторское право и лицензия
 Уведомление об авторских правах © 2017 Stalker Middleware Все права защищены
@@ -71,15 +71,14 @@ Professional software for managing IPTV/OTT projects.
 Development of Infomir company
  
 ## Content
-Quick start
-What’s included
-Paid options
-Errors and feature request
-Documentation
-Assistance
-Community
-Contacts
-Copyright and license
+- [Quick start](#quick-start)
+- [What’s included](#whats-included)
+- [Paid options](#paid-options)
+- [Errors and feature request](#errors-and-feature-request)
+- [Documentation](#documentation)
+- [Community](#community)
+- [Contacts](#contacts)
+- [Copyright and license](#copyright-and-license)
  
 ## Quick start
 Starting June 1, 2017, a new distribution model of Stalker Middleware takes effect.
@@ -108,16 +107,16 @@ Administrative portal
 - Monitoring of sources for TV channels
  
 ## Paid Options
-System installation and configuration on a turnkey basis
-Technical support with guaranteed SLA
-Applications for Android and iOS mobile devices
-The application branding service for smartphones and tablets
-Licenses for connecting a third-party set-top boxes and smart TVs applications
-Modern high-performance MAG set-top boxes
+- [System installation and configuration on a turnkey basis](http://www.infomir.eu/eng/solutions/magic-solution/)
+- Technical support with guaranteed SLA
+- Applications for Android and iOS mobile devices
+- The application branding service for smartphones and tablets
+- Licenses for connecting a third-party set-top boxes and smart TVs applications
+- Modern high-performance MAG set-top boxes
  
 ## Errors and feature request
-Get a free consultation at the Service Desk
-Join the official HipChat room
+Get a free consultation at the [Service Desk](http://www.infomir.eu/eng/support/form/support.php)  
+Join the official [HipChat room](https://www.hipchat.com/gpYTYRHgx)
  
 ## Documentation
 Find the answer to your question or suggest an article in the Documentation
@@ -127,8 +126,8 @@ Get the news about platform capabilities and communicate with project developers
 Read and subscribe to the Official Stalker Middleware Blog
  
 ## Contacts
-Project Manager Alexander Sazhyienko  
-Brand Manager Irina Tischenko
+Project Manager [Alexander Sazhyienko](mailto:stalker@infomir.com)  
+Brand Manager [Irina Tischenko](mailto:stalker@infomir.com)
  
 ## Copyright and license
 Copyright notice © 2017 Stalker Middleware All rights reserved.
