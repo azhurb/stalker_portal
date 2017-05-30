@@ -13,8 +13,8 @@
 - [Авторское право и лицензия](#Авторское-право-и-лицензия)
  
 ## Быстрый старт
-Начиная с 1 июня 2017 вступает в силу новая модель распространения Stalker Middleware.
-[Заполните форму](http://www.infomir.eu/rus/solutions/free-middleware-stalker/) запроса чтобы загрузить последнюю версию Stalker Middleware.
+Начиная с 1 июня 2017 вступает в силу новая модель распространения Stalker Middleware.  
+[Заполните форму](http://www.infomir.eu/rus/solutions/free-middleware-stalker/) запроса чтобы загрузить последнюю версию Stalker Middleware.  
 Прочтите страницу [«Руководство по инсталляции Stalker Middleware»](https://wiki.infomir.eu/rus/stalker/rukovodstvo-po-installyatsii-stalker) для получения информации о настройке платформы.
  
 ## Что включено
@@ -54,7 +54,7 @@
 Найти ответ на интересующий вопрос или предложить статью можно в [Документации](https://wiki.infomir.eu/rus/stalker/)
 
 ## Сообщество
-Получайте новости о возможностях платформы и общайтесь с разработчиками проекта и другими пользователями
+Получайте новости о возможностях платформы и общайтесь с разработчиками проекта и другими пользователями  
 Прочтите и подпишитесь на [Официальный блог Stalker Middleware](http://blog.middleware-stalker.com)
 
 ## Контакты
@@ -68,7 +68,7 @@ Stalker Middleware — это оригинальная торговая марк
 
 ## Stalker Middleware
 Professional software for managing IPTV/OTT projects.  
-Development of Infomir company
+Development of [Infomir](http://www.infomir.eu/) company
  
 ## Content
 - [Quick start](#quick-start)
@@ -81,9 +81,9 @@ Development of Infomir company
 - [Copyright and license](#copyright-and-license)
  
 ## Quick start
-Starting June 1, 2017, a new distribution model of Stalker Middleware takes effect.
-Fill out the request form to download the latest version of Stalker Middleware.
-Read «Stalker Middleware Installation Guide» page for information on configuring the platform.
+Starting June 1, 2017, a new distribution model of Stalker Middleware takes effect.  
+[Fill out the request form](http://www.infomir.eu/rus/solutions/free-middleware-stalker/) to download the latest version of Stalker Middleware.  
+Read [«Stalker Middleware Installation Guide»](https://wiki.infomir.eu/eng/stalker/stalker-installation-guide) page for information on configuring the platform.
  
 ## What’s included
 Free basic functionality
@@ -109,21 +109,21 @@ Administrative portal
 ## Paid Options
 - [System installation and configuration on a turnkey basis](http://www.infomir.eu/eng/solutions/magic-solution/)
 - Technical support with guaranteed SLA
-- Applications for Android and iOS mobile devices
+- Applications for [Android](https://play.google.com/store/apps/details?id=com.infomir.stalkermobile) and [iOS](https://itunes.apple.com/ua/app/stalkertv/id1020135702?mt=8) mobile devices
 - The application branding service for smartphones and tablets
 - Licenses for connecting a third-party set-top boxes and smart TVs applications
-- Modern high-performance MAG set-top boxes
+- Modern high-performance [MAG](http://www.infomir.eu/eng/products/iptv-stb/) set-top boxes
  
 ## Errors and feature request
 Get a free consultation at the [Service Desk](http://www.infomir.eu/eng/support/form/support.php)  
 Join the official [HipChat room](https://www.hipchat.com/gpYTYRHgx)
  
 ## Documentation
-Find the answer to your question or suggest an article in the Documentation
+Find the answer to your question or suggest an article in the [Documentation](https://wiki.infomir.eu/eng/stalker/)
  
 ## Community
-Get the news about platform capabilities and communicate with project developers as well as other users
-Read and subscribe to the Official Stalker Middleware Blog
+Get the news about platform capabilities and communicate with project developers as well as other users  
+Read and subscribe to the [Official Stalker Middleware Blog](http://blog.middleware-stalker.com)
  
 ## Contacts
 Project Manager [Alexander Sazhyienko](mailto:stalker@infomir.com)  
