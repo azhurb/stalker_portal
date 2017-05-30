@@ -87,7 +87,7 @@ Starting June 1, 2017, a new distribution model of Stalker Middleware takes effe
 Fill out the request form to download the latest version of Stalker Middleware.
 Read «Stalker Middleware Installation Guide» page for information on configuring the platform.
  
-##What’s included
+## What’s included
 Free basic functionality
 - TV & EPG
 - Personal video recorder (PVR)
