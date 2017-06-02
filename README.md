@@ -82,7 +82,7 @@ Development of [Infomir](http://www.infomir.eu/) company
  
 ## Quick start
 Starting June 1, 2017, a new distribution model of Stalker Middleware takes effect.  
-[Fill out the request form](http://www.infomir.eu/rus/solutions/free-middleware-stalker/) to download the latest version of Stalker Middleware.  
+[Fill out the request form](http://www.infomir.eu/eng/solutions/free-middleware-stalker/) to download the latest version of Stalker Middleware.  
 Read [«Stalker Middleware Installation Guide»](https://wiki.infomir.eu/eng/stalker/stalker-installation-guide) page for information on configuring the platform.
  
 ## What’s included
