@@ -42,6 +42,7 @@
 - [Установка и конфигурация системы «под ключ»](http://www.infomir.eu/rus/solutions/magic-solution/)
 - Техническая поддержка с гарантированным SLA
 - Приложения для мобильных устройств [Android](https://play.google.com/store/apps/details?id=com.infomir.stalkermobile) и [iOS](https://itunes.apple.com/ua/app/stalkertv/id1020135702?mt=8)
+- Приложения для мобильных медиаплееров [Apple TV](https://itunes.apple.com/ca/app/stalkertv-for-apple-tv/id1229976319?mt=8 ) и [AndroidTV](https://play.google.com/store/apps/details?id=com.infomir.stalkertvfortv&hl=en)
 - Услуга брендирования приложений для смартфонов и планшетов
 - Лицензии для подключения приставок сторонних производителей и приложений для умных телевизоров.
 - Современные высокопроизводительные приставки [MAG](http://www.infomir.eu/rus/products/iptv-stb/)
@@ -110,6 +111,7 @@ Administrative portal
 - [System installation and configuration on a turnkey basis](http://www.infomir.eu/eng/solutions/magic-solution/)
 - Technical support with guaranteed SLA
 - Applications for [Android](https://play.google.com/store/apps/details?id=com.infomir.stalkermobile) and [iOS](https://itunes.apple.com/ua/app/stalkertv/id1020135702?mt=8) mobile devices
+- Applications for [Apple TV](https://itunes.apple.com/ca/app/stalkertv-for-apple-tv/id1229976319?mt=8 ) and [AndroidTV](https://play.google.com/store/apps/details?id=com.infomir.stalkertvfortv&hl=en)
 - The application branding service for smartphones and tablets
 - Licenses for connecting a third-party set-top boxes and smart TVs applications
 - Modern high-performance [MAG](http://www.infomir.eu/eng/products/iptv-stb/) set-top boxes
