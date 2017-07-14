@@ -1,4 +1,4 @@
-## Stalker Middleware
+# Stalker Middleware
 Профессиональное программное обеспечение для управления IPTV/OTT проектами.
 Разработка компании [Infomir](http://www.infomir.eu/)
  
@@ -67,7 +67,7 @@
 Stalker Middleware — это оригинальная торговая марка, зарегистрированная в Бюро авторского права США. Это программное обеспечение либо его элементы не могут быть воспроизведены или использованы без предварительного согласия, кроме случаев, одобренных законами об авторских правах
 
 
-## Stalker Middleware
+# Stalker Middleware
 Professional software for managing IPTV/OTT projects.  
 Development of [Infomir](http://www.infomir.eu/) company
  
