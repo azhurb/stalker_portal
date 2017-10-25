@@ -49,7 +49,6 @@
 
 ## Ошибки и запросы функций
 Получи бесплатную консультацию в [Service Desk](http://www.infomir.eu/eng/support/form/support.php)  
-Присоединяйтесь к Официальной [HipChat room](https://www.hipchat.com/gpYTYRHgx)
 
 ## Документация
 Найти ответ на интересующий вопрос или предложить статью можно в [Документации](https://wiki.infomir.eu/rus/stalker/)
@@ -118,7 +117,6 @@ Administrative portal
  
 ## Errors and feature request
 Get a free consultation at the [Service Desk](http://www.infomir.eu/eng/support/form/support.php)  
-Join the official [HipChat room](https://www.hipchat.com/gpYTYRHgx)
  
 ## Documentation
 Find the answer to your question or suggest an article in the [Documentation](https://wiki.infomir.eu/eng/stalker/)
